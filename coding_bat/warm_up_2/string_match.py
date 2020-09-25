@@ -10,5 +10,4 @@ def string_match(a, b):
         b_sub = b[i:i + 2]
         if a_sub == b_sub:
             count = count + 1
-
     return count
